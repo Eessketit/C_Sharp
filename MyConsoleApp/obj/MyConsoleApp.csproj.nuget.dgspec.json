@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/d/Codes/MyConsoleApp/MyConsoleApp.csproj": {}
+    "/mnt/d/Codes/C_Sharp/MyConsoleApp/MyConsoleApp.csproj": {}
   },
   "projects": {
-    "/mnt/d/Codes/MyConsoleApp/MyConsoleApp.csproj": {
+    "/mnt/d/Codes/C_Sharp/MyConsoleApp/MyConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/d/Codes/MyConsoleApp/MyConsoleApp.csproj",
+        "projectUniqueName": "/mnt/d/Codes/C_Sharp/MyConsoleApp/MyConsoleApp.csproj",
         "projectName": "MyConsoleApp",
-        "projectPath": "/mnt/d/Codes/MyConsoleApp/MyConsoleApp.csproj",
+        "projectPath": "/mnt/d/Codes/C_Sharp/MyConsoleApp/MyConsoleApp.csproj",
         "packagesPath": "/home/eessketit/.nuget/packages/",
-        "outputPath": "/mnt/d/Codes/MyConsoleApp/obj/",
+        "outputPath": "/mnt/d/Codes/C_Sharp/MyConsoleApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/eessketit/.nuget/NuGet/NuGet.Config"
